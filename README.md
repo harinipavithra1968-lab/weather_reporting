@@ -1,3 +1,4 @@
+
 # SkyCast — Weather Reporting App
 
 A responsive React weather dashboard using the free Open-Meteo forecast and geocoding APIs. No API key is required.
@@ -65,3 +66,7 @@ Open-Meteo's free API does not require a key for this demo. Internet access is r
 - The registration page validates required fields, email format, password length, and matching passwords.
 - After signing in, the weather dashboard appears. The logout icon returns to login.
 - This is a **front-end demonstration only**: demo account details are stored in browser `localStorage`. Do not use real passwords or deploy this as secure authentication. For production, add a backend with hashed passwords, session/JWT handling, and server-side validation.
+
+# weather_reporting
+SkyCast is a responsive weather forecasting web application built using React, JavaScript, HTML, and CSS. It provides current weather conditions and a 7-day forecast using the Open-Meteo API. The application includes login and registration pages, form validation, and a personalized weather dashboard with a modern, user-friendly interface.
+
